@@ -1,5 +1,5 @@
 # Hey, I'm Harsh 👋  
-💻 Computer Science Student | Tech Enthusiast | Lifelong Learner
+💻 Computer Science Student | Tech Enthusiast | Everyday Learner
 
 ---
 
