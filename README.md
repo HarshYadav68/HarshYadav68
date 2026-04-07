@@ -12,9 +12,9 @@
 ---
 
 ### 🔭 Highlight Projects
-🚀 **Virtual Try-On for Eyeglasses (Lenskart Clone)** – JS, WebGL  
+<!-- 🚀 **Virtual Try-On for Eyeglasses (Lenskart Clone)** – JS, WebGL  
 Try glasses in real-time using face detection and 3D rendering.  
-
+-->
 💬 **WhatsApp Exchange Portal for ZACH LIFESTYLE** – Node.js, Shopify API  
 Built a full-stack exchange request system integrated with Shopify data.
 
