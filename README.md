@@ -65,10 +65,7 @@ WebGL, AI integrations, and scalable backend architecture -->
   <img src="https://skillicons.dev/icons?i=git,kafka,grafana,postman,vscode" />
 </p>
 
-**📚 Currently Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,postgres,docker,nextjs" />
-</p>
+
 
 ---
 
