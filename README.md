@@ -23,7 +23,7 @@ Helps reduce screen time and build healthy phone habits.
 
 ---
 
-### 🛠 Skills
+<!-- ### 🛠 Skills
 **Languages:**  
 C++, JavaScript, TypeScript, Python, SQL  
 
@@ -31,7 +31,44 @@ C++, JavaScript, TypeScript, Python, SQL
 Node.js, Express.js, React.js, Next.js, EJS, MySQL, MongoDB, Docker, Linux, Git, Nginx  
 
 **Learning:**  
-WebGL, AI integrations, and scalable backend architecture
+WebGL, AI integrations, and scalable backend architecture -->
+
+### 🛠 Skills & Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+**Databases & ORMs**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,github,linux" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,kafka,grafana,postman,vscode" />
+</p>
+
+**📚 Currently Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,postgres,docker,nextjs" />
+</p>
 
 ---
 
