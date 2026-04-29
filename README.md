@@ -54,6 +54,18 @@ WebGL, AI integrations, and scalable backend architecture
 📧 harshyadav68529@gmail.com  
 ⭐ Feel free to explore my repositories or collaborate on exciting projects!
 
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav68&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HarshYadav68&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav68&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+
+
 
 <!--
 **HarshYadav68/HarshYadav68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
